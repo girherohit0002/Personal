@@ -5,3 +5,5 @@ this is time pass operation for git
 this is for branch 1 (br1).
 
 now i am editing this from git.
+
+this line is for pushing into github
